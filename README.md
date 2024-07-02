@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ancishan&show_icons=true&locale=en" alt="ancishan" /></p>
 
-<p><img align="center" src="https://www.developer.com/wp-content/uploads/2021/06/GitHub-Code-Repository.png?user=ancishan&" alt="ancishan" /></p>
