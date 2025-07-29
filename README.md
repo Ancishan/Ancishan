@@ -1,15 +1,16 @@
 ![logo](https://github.com/Ancishan/Ancishan/blob/main/new.jpg)
 <h1 align="center">Hi 👋, I'm Shanto Deb</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate mer-stack developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ancishan&label=Profile%20views&color=0e75b6&style=flat" alt="ancishan" /> </p>
+- 🔭I’m currently working on : Dk-gadgets-Hub (https://github.com/Ancishan/dk-gadget),(https://github.com/Ancishan/dk-gadget-server)
+live link: https://dk-gadget-hub.vercel.app
+- 🔭 Here ,My Some project: [micro-task-earnning-pf](https://github.com/Ancishan/micro-task-earnning-pf-client ,https://github.com/Ancishan/micro-task-earnning-pf-server)
+- 🔭: [Real-estate-Assignment](https://github.com/Ancishan/Real-estate-Assignment) ,[BISTRO-BOSS-CLIENT](https://github.com/Ancishan/BISTRO-BOSS-CLIENT)
 
-- 🔭 I’m currently working on [micro-task-earnning-pf](https://github.com/Ancishan/micro-task-earnning-pf-client ,https://github.com/Ancishan/micro-task-earnning-pf-server)
-- 🔭Here ,My Some project: [Real-estate-Assignment](https://github.com/Ancishan/Real-estate-Assignment) ,[BISTRO-BOSS-CLIENT](https://github.com/Ancishan/BISTRO-BOSS-CLIENT)
-
-- 🌱 I’m currently learning **MongoDb, Semantic UI,Chakra UI**
+- 🌱 I’m currently learning **Next.js, MongoDb, Semantic UI,Chakra UI**
 
 - 👯 I’m looking to collaborate on [Edu-sphere](https://github.com/S-Alif/Edu-Sphere)
 
